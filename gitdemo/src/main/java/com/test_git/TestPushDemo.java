@@ -8,5 +8,6 @@ package com.test_git;
 public class TestPushDemo {
     public static void main(String[] args) {
         System.out.println("hello"); //修改了文件
+        System.out.println("hello"); //hotfix 修改了分支
     }
 }
